@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Fanz known as olypnsf! 👋
 
 ## I'm a Developer, Creator, and Enthusiast!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Make good projects.
 - ⚡ Fun fact: I love to play guitar and explore new technologies
 
 ### Languages and Tools:
@@ -20,22 +20,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
-### GitHub Stats:
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
-### Connect with me:
-
-[<img align="left" alt="YourWebsite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YourWebsite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][twitter]
-[<img align="left" alt="YourWebsite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][linkedin]
-[<img align="left" alt="YourWebsite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg" />][instagram]
-
-<br />
-
----
-
-[website]: https://example.com
-[twitter]: https://twitter.com/yourtwitterhandle
-[linkedin]: https://linkedin.com/in/yourlinkedinprofile
-[instagram]: https://instagram.com/yourinstagramprofile
+]
