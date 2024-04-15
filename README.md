@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Make good projects.
-- ⚡ Fun fact: I love to play guitar and explore new technologies
+- ⚡ Fun fact: I love to play piano and explore new technologies
 
 ### Languages and Tools:
 
